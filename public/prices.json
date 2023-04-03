@@ -1,0 +1,36 @@
+[  
+    {    
+     "id": 1,   
+     "name": "Starter Membership",    
+     "description": "Access to gym during off-peak hours",    
+     "price": 30,
+     "features": ["Off-peak access", "Weight room access", "Cardio machine access", "Locker room access"]
+  },
+  {
+    "id": 2,
+    "name": "Standard Membership",
+    "description": "Access to gym during peak and off-peak hours",
+    "price": 50,
+    "features": [
+      "Peak and off-peak access",
+      "Weight room access",
+      "Cardio machine access",
+      "Locker room access",
+      "Group class access"
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Premium Membership",
+    "description": "Access to gym during peak and off-peak hours, plus personal training",
+    "price": 80,
+    "features": [
+      "Peak and off-peak access",
+      "Weight room access",
+      "Cardio machine access",
+      "Locker room access",
+      "Group class access",
+      "2 personal training sessions/month"
+    ]
+  }
+]
