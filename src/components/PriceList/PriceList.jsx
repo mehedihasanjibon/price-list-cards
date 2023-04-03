@@ -12,7 +12,7 @@ const PriceList = () => {
     }, [])
 
     return (
-        <div className=''>
+        <div className='mb-12'>
             <h2 className='text-5xl text-center text-purple-950 bg-purple-300 font-bold p-4'> Awesome Affordable Prices </h2>
             <div className='grid md:grid-cols-3 gap-3 mx-12'>
                 {
