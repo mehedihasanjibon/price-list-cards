@@ -10,7 +10,6 @@ function App() {
   return (
     <div className="App">
       <Navbar></Navbar>
-        <h1> Hello from tailwind </h1>
     </div>
   )
 }
